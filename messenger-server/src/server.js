@@ -6,7 +6,7 @@ const basicAuth = require("express-basic-auth");
 const bodyParser = require("body-parser");
 const cookieParser = require("cookie-parser");
 const socketService = require("./socket/SocketService");
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 5000;
 const app = express();
 const httpServer = createServer(app);
 
