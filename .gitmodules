@@ -1,3 +1,0 @@
-[submodule "second-repo"]
-    path = second-repo
-    url = https://github.com/dolamasa1/raven-messenger-backend.git
