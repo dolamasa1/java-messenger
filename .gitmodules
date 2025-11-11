@@ -3,5 +3,5 @@ path = raven-messenger-backend
 url = https://github.com/dolamasa1/raven-messenger-backend.git
 
 [submodule "messenger-server"]
-path = messenger-server
-url = https://github.com/dolamasa1/nodejs-messanger-Server
+	path = messenger-server
+	url = https://github.com/dolamasa1/nodejs-messanger-Server
